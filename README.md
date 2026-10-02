@@ -59,3 +59,5 @@ Working familiarity with PyTorch/torchvision.
 
 - **[SportLens](https://github.com/xiaogao0616/sportlens)** — Comparing transfer-learning strategies for sports image classification, including where the model fails.
 - **[DigitShift](https://github.com/xiaogao0616/digitshift)** — Testing how data augmentation changes a handwritten-digit classifier's robustness to image shifts.
+
+- **[SIR Dynamics](https://github.com/xiaogao0616/sir-dynamics)** — Comparing Euler and RK4 numerical methods on an SIR epidemic model.
