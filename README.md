@@ -4,7 +4,9 @@
 
 I'm exploring AI, machine learning, and robotics through small projects and hands-on experiments. My experience ranges from programming FTC robots in Java to working with physiological signals in a research lab. Lately, I've been exploring computer vision and building tools that make ideas easier to understand and use.
 
-[LinkedIn](https://www.linkedin.com/in/xiangyi-gao/) · [Website](https://xiaogao0616.github.io/) · [Email](mailto:xiangyig@unc.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/xiangyi-gao/)
+[![Website](https://img.shields.io/badge/Website-4B7896?style=for-the-badge)](https://xiaogao0616.github.io/)
+[![Email](https://img.shields.io/badge/Email-387565?style=for-the-badge)](mailto:xiangyig@unc.edu)
 
 ### A little about me
 
@@ -15,12 +17,33 @@ I'm exploring AI, machine learning, and robotics through small projects and hand
 
 ### Skills & tools
 
-| Area | Technologies & experience |
-| --- | --- |
-| Languages | Python, Java, C, JavaScript, HTML, CSS |
-| Scientific computing & ML | NumPy, SciPy, Matplotlib, scikit-learn; working familiarity with PyTorch/torchvision |
-| Robotics | PID control, autonomous navigation, FTC robot programming |
-| Tools | Git, Linux/Unix, Jupyter, LaTeX |
+**Languages**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-B35C24?style=flat-square)](https://dev.java/)
+[![C](https://img.shields.io/badge/C-566A9A?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-8A7100?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-C74725?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**Scientific computing & ML**
+
+[![NumPy](https://img.shields.io/badge/NumPy-315E80?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-315D91?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-466F89?style=flat-square)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit-learn-A65D19?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-BF4030?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
+Working familiarity with PyTorch/torchvision.
+
+**Tools & workflow**
+
+[![Git](https://img.shields.io/badge/Git-C6432D?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-42474C?style=flat-square&logo=linux&logoColor=white)](https://www.kernel.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-AD5820?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
+**Robotics:** PID control · Autonomous navigation · FTC robot programming
 
 ### Selected projects
 
